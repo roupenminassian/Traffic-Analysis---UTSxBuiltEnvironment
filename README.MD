@@ -2,6 +2,8 @@
 
 This project provides tools and scripts for analyzing traffic from videos. It uses computer vision techniques and deep learning models to detect vehicles and measure their speeds.
 
+![Description of your GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMxMWg2YmlwbDRmaGw3N3Z3MXJncGpmZGY0YTlrMmxyOHpudHp1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iL0J1oTqMMwjojl1Hx/giphy.gif)
+
 ## Features
 
 - **Vehicle Detection**: Identify and classify vehicles in various lanes.
